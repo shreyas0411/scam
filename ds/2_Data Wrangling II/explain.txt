@@ -1,0 +1,69 @@
+Here are the **10 most important steps** from your second notebook, explained simply and clearly for presentation purposes:
+
+---
+
+### 📘 **Key Steps in Data Cleaning and Visualization (Notebook 2)**
+
+---
+
+#### **1. Imported Necessary Libraries**
+
+Imported `pandas`, `numpy`, `matplotlib`, and `seaborn` for handling data, performing operations, and visualizing results.
+
+---
+
+#### **2. Loaded the Academic Dataset**
+
+Read the CSV file named `acdemic_data.csv` into a DataFrame called `df`, which contains student-related academic records.
+
+---
+
+#### **3. Handled Custom Missing Values**
+
+Defined a list of common missing value formats (e.g., `"n.a."`, `"?"`, `"--"`) and ensured they were correctly treated as `NaN` when reading the file.
+
+---
+
+#### **4. Checked for Missing Values**
+
+Used functions like `isnull()`, `notnull()`, and `sum()` to identify missing data in specific columns and across the entire dataset.
+
+---
+
+#### **5. Filtered Out Rows with Missing Data**
+
+Used conditions and filters to display only the non-null rows for better data quality.
+
+---
+
+#### **6. Dropped Missing Data**
+
+Removed rows or columns with missing values using `dropna()` to avoid inaccuracies in further analysis.
+
+---
+
+#### **7. Replaced Missing Values with Constants**
+
+Filled null values in the `SPOS` column with zero using `fillna(0)`—useful when zero is a meaningful default value.
+
+---
+
+#### **8. Forward and Backward Fill Techniques**
+
+Used `method='pad'` to fill missing values with the previous row's value, and `method='bfill'` to use the next row's value—great for time series or sequential data.
+
+---
+
+#### **9. Verified Changes**
+
+Used `head()` to view the top rows after filling nulls, ensuring that the replacements worked correctly.
+
+---
+
+#### **10. Visualized Data with Boxplots**
+
+Plotted boxplots for columns like `SPOS`, `DSBDA`, and `WT` to detect outliers and understand the distribution of scores.
+
+---
+
+Would you like me to do the same for the third notebook you uploaded?

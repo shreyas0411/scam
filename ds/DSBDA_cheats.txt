@@ -1,0 +1,44 @@
+1. Data Wrangling I: Perform the operations using
+Python on any open source dataset.
+
+2.Data Wrangling II: Create an “Academic
+performance” dataset of students and perform the
+following operations using Python.
+
+3.Descriptive Statistics-Measures of Central
+Tendency and variability: Perform the operations
+on any open source dataset.
+
+4.Data Analytics I: Create a Linear Regression Model
+using Python/R to predict home prices using Boston
+Housing Dataset.
+
+5.Data Analytics II: Implement logistic regression
+using Python/R to perform classification on
+Social_Network_Ads.csv dataset and Compute
+Confusion matrix.
+
+6.Data Analytics III: Implement Simple Naïve Bayes
+classification algorithm using Python/R on iris.csv
+dataset and Compute Confusion matrix.
+
+7.Text Analytics: Apply following document
+preprocessing methods: Tokenization, POS Tagging,
+stop words removal, Stemming and Lemmatization
+with TF and IDF.
+
+8.Data Visualization I: Use the inbuilt dataset &#39;titanic&#39;
+to check price of the ticket for each passenger is
+distributed by plotting a histogram using the
+
+9.Data Visualization I: Plot a Box plot for
+distribution of age with respect to each gender along
+with the information about whether they survived
+or not, write observations.
+
+10.Data Visualization III: Give the inference as - List
+down the features and their types, create histogram,
+create box plot, compare distribution and identify
+outliers.
+
+
